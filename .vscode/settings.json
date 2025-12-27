@@ -1,6 +1,7 @@
 {
     "python.defaultInterpreterPath": ".venv/bin/python",
     "python.analysis.typeCheckingMode": "basic",
+    "python.envFile": "${workspaceFolder}/.env",
 
     // Formatters
     "editor.defaultFormatter": "ms-python.black-formatter",
