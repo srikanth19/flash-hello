@@ -2,10 +2,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Run app",
+      "name": "Run Flask app",
       "type": "debugpy",
       "request": "launch",
-      "program": "src/app/main.py",
+      "module": "src.app.main",
       "console": "integratedTerminal"
     }
   ]
